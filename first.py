@@ -1,30 +1,38 @@
-#strings..
-#slicing-->[0:4]
-#postivi
-#negativ
-#data..
-
-#double, single quote, tripe quote
-test = 10
-#This is another change made to show..
-print test[0]
-print test[1]
-"""
+#Conditions...
+#Variables.
+#Print
+#strings
 #indexing
-print test[0]
-print test[1]
-print test[2]
-print test[3]
-print test[4]
-print test[5]
+#slicing
+#If morethan 95 marks, print distinctions..
+#if less than 95 print not distinction..
 
-#more than one character..
-#start index
-#end index (it will not print...)
-print "fetch two values %s" %test[0:1]
-print "fetch two values %s" %test[0:4]
-print "fetch two values %s" %test[2:4]
-print "fetch two values %s" %test[4:]
-print "fetch two values %s" %test[:4]
 
-"""
+a=10
+b=15 #when it is greater than 20 then only i should print value of b...
+
+print a
+
+#python follow indentatiom technique..
+if(b > 20):
+	print b
+
+print "i am out of the code.."
+
+
+#if and else..
+telugu=92
+
+#If morethan 95 marks, print distinctions..
+#if less than 95 print not distinction..
+
+#if
+#if-else
+#nested if -else...if - elif - else
+
+if (telugu > 95):
+	print "Distinction...!"
+elif (telugu < 95):
+	print "not a distinction..!"
+else:
+	print "missed distinction..."
