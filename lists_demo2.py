@@ -1,5 +1,5 @@
 #append, insert, del, remove, pop
-#index, count, sort,reverse,copy
+#index, count, sort,reverse
 
 
 a=[10,20,30,50]
