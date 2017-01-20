@@ -1,0 +1,16 @@
+#list tasks:
+
+#input data
+a=[10,20,30,405,500,500]
+
+#task1: how to find number of "500" in the above list
+print a.count()
+
+
+Task2: how to find all numbers in alist which are greater than 50
+
+Task3: how do u find max number in a list
+
+Task4: Find second highest number..
+
+Task5:how to find index for repeated numbers
