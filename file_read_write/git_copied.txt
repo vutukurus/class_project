@@ -1,0 +1,2 @@
+To get project code from repository, GIT command to use is
+command : git clone https://github.com/vutukurus/class_project.git
