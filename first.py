@@ -6,7 +6,7 @@
 #slicing
 #If morethan 95 marks, print distinctions..
 #if less than 95 print not distinction..
-
+#asdfsadfdsasda
 
 a=10
 b=15 #when it is greater than 20 then only i should print value of b...
