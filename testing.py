@@ -4,7 +4,7 @@
 import unittest
 
 def test_fun(a):
-	a=a+1
+	a=a+2
 	return a
 
 
