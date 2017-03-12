@@ -2,7 +2,7 @@
 #Variables.
 #Print
 #strings
-#indexing
+#indexing with customd
 #slicing
 #If morethan 95 marks, print distinctions..
 #if less than 95 print not distinction..
