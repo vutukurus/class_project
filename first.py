@@ -1,7 +1,7 @@
 #Conditions...
 #Variables.
 #Print
-#strings
+#stringssdfsaf
 #indexing with customd
 #slicing
 #If morethan 95 marks, print distinctions..
